@@ -13,8 +13,8 @@
     
 }
 
-body{
-    font: var(--primary-font);
-    background-color: var(--secondary-clr);
-    color: var(--primary-clr);
+body {
+    background-image: url("assets/images/istockphoto-background.webp");
+    background-repeat: repeat;
 }
+
