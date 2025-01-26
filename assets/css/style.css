@@ -78,13 +78,14 @@ h1, h2, h3{
 
 footer {
     align-content: flex-end;
+    height: 4rem;
 }
 
 #social-media{
-    /* flex-flow: row-reverse wrap; */
+    /*  */
     /*  */
     /* flex-grow: 0; */
-
+    
     list-style-type: none;
     list-style: none;
 }
@@ -92,14 +93,15 @@ footer {
 #social-media i{
     color: var(--secondary-clr);
     background-color: transparent;
+    
 }
   
  #social-media li {
     display: inline-block;
     margin-right: 10px; /* add spacing between items */
     padding-top: 5px;
-    padding-bottom: 10px;
-  
+    font-size: 1.2rem;
+    flex-flow: row-reverse wrap;
    
   }
 
