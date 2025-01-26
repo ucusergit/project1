@@ -33,6 +33,11 @@ header {
     background-color: var(--primary-clr);
     height: 3rem;
     text-align: center;
+    
+}
+
+.set-font{
+    font: 30px arial;
 }
 
 h1, h2, h3{
@@ -54,7 +59,7 @@ h1, h2, h3{
 }
 
 .top-space-header{
-    margin-top: 50px;
+    margin-top: 84px;
 }
 
 
@@ -65,4 +70,54 @@ h1, h2, h3{
 
 .set-color *{
     color: var(--secondary-clr)
+}
+
+
+
+
+/* Media queries */
+
+/* Medium devices (tablets, 320px and up) */
+@media screen and (min-width: 320px) {
+
+    header button{
+        width: 100%;
+    }
+    
+}
+
+
+
+/* Medium devices (tablets, 576px and up) */
+@media screen and (min-width: 576px) {
+
+header button{
+    width: 100%;
+}
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+
+
+}
+
+
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+
+
+}
+
+/* xl devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+
+}
+
+
+/* xxl devices (larger desktops, 1400px and up) */
+@media screen and (min-width: 1400px) {
+
 }
