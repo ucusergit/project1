@@ -9,12 +9,33 @@
     --primary-clr: #D5B139;     /* Metalic Gold */
     --secondary-clr: #040273;   /* Dark Emerald Green */
     --highlight-clr: #e9ac75;   /* Light Brown */
-    --hightlight-clr-light: #f6dfca; /* lighter Brown */
+    --highlight-clr-light: #f6dfca; /* lighter Brown */
     
 }
 
-body {
-    background-image: url("assets/images/istockphoto-background.webp");
-    background-repeat: repeat;
+* {
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
 }
 
+body{
+    
+    color: #A9A9A9;
+    background-image: url('/assets/images/background.jpg');
+    background-repeat: repeat;
+    background-color: #ffffff;
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+/* main {
+
+} */
+
+
+
+#mypage>section>div{
+    background-color: white;
+   
+      }
