@@ -16,7 +16,7 @@
 * {
     padding: 0;
     margin: 0;
-    /* box-sizing: border-box; */
+    box-sizing: border-box; 
 }
 
 body{
@@ -29,13 +29,26 @@ body{
     background-attachment: fixed;
 }
 
-/* main {
-
-} */
-
-
+header * {
+    /* --bs-navbar-color: none */
+    background-color: var(--primary-clr);
+    height: 3rem;
+    flex-flow: row-reverse nowrap;
+}
 
 #mypage>section>div{
     background-color: white;
-   
-      }
+    height: 100vh;
+    width:75%;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.stretch-navbar{
+    flex-grow: 0;
+    width: 100%;
+}
+
+.set-bkgrnd{
+    background-color: var(--primary-clr);
+}
