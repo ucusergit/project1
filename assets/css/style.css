@@ -16,7 +16,6 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box; 
 }
 
 body{
@@ -29,26 +28,41 @@ body{
     background-attachment: fixed;
 }
 
-header * {
+header {
     /* --bs-navbar-color: none */
     background-color: var(--primary-clr);
     height: 3rem;
-    flex-flow: row-reverse nowrap;
+    text-align: center;
 }
 
-#mypage>section>div{
-    background-color: white;
+h1, h2, h3{
+    color: var(--secondary-clr);
+    font: var(--secondary-font) ;
+    
+}
+
+#mypage > section > div{
+    background-color: rgba(256, 256, 256, 0.9);
     height: 100vh;
     width:75%;
     margin-left: auto; 
     margin-right: auto;
 }
 
-.stretch-navbar{
-    flex-grow: 0;
-    width: 100%;
+.top-space{
+    margin-top: 30px;
 }
+
+.top-space-header{
+    margin-top: 50px;
+}
+
+
 
 .set-bkgrnd{
     background-color: var(--primary-clr);
+}
+
+.set-color *{
+    color: var(--secondary-clr)
 }
