@@ -37,7 +37,7 @@ header {
 
 .button-highlight {
     color: white;
-    background-color: #FFD700;
+    background-color: #dbdbfe;
     border-color: var(--secondary-clr);
 }
 
@@ -60,13 +60,12 @@ h1, h2, h3{
 }
 
 .top-space{
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .top-space-header{
-    margin-top: 84px;
+    margin-top: 96px;
 }
-
 
 
 .set-bkgrnd{
@@ -74,10 +73,39 @@ h1, h2, h3{
 }
 
 .set-color *{
-    color: var(--secondary-clr)
+    color: var(--secondary-clr);
 }
 
+footer {
+    align-content: flex-end;
+}
 
+#social-media{
+    /* flex-flow: row-reverse wrap; */
+    /*  */
+    /* flex-grow: 0; */
+
+    list-style-type: none;
+    list-style: none;
+}
+
+#social-media i{
+    color: var(--secondary-clr);
+    background-color: transparent;
+}
+  
+ #social-media li {
+    display: inline-block;
+    margin-right: 10px; /* add spacing between items */
+    padding-top: 5px;
+    padding-bottom: 10px;
+  
+   
+  }
+
+#social-media i:hover{
+    color: #dbdbfe;
+}
 
 
 /* Media queries */
@@ -86,6 +114,10 @@ h1, h2, h3{
 @media screen and (min-width: 320px) {
 
     header button{
+        width: 100%;
+    }
+
+    #mypage section div {
         width: 100%;
     }
     
@@ -100,12 +132,30 @@ header button{
     width: 100%;
 }
 
+    #mypage > section > div {
+        background-color: rgba(256, 256, 256, 0.9);
+        height: 100vh;
+        width:75%;
+        margin-left: auto; 
+        margin-right: auto;
+    }
+
 }
+
+
+
 
 
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
 
+    #mypage > section > div {
+        background-color: rgba(256, 256, 256, 0.9);
+        height: 100vh;
+        width:75%;
+        margin-left: auto; 
+        margin-right: auto;
+    }
 
 }
 
@@ -113,16 +163,39 @@ header button{
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
 
+    #mypage > section > div {
+        background-color: rgba(256, 256, 256, 0.9);
+        height: 100vh;
+        width:75%;
+        margin-left: auto; 
+        margin-right: auto;
+    }
 
 }
 
 /* xl devices (large desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
 
+    #mypage > section > div {
+        background-color: rgba(256, 256, 256, 0.9);
+        height: 100vh;
+        width:75%;
+        margin-left: auto; 
+        margin-right: auto;
+    }
+
 }
 
 
 /* xxl devices (larger desktops, 1400px and up) */
 @media screen and (min-width: 1400px) {
+
+    #mypage > section > div {
+        background-color: rgba(256, 256, 256, 0.9);
+        height: 100vh;
+        width:75%;
+        margin-left: auto; 
+        margin-right: auto;
+    }
 
 }
