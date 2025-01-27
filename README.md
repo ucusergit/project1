@@ -57,6 +57,26 @@ We have many features available for our users to make browsing the website easy 
 
 ![donate page image](assets/readmeimages/donate.png)
 
+## Testing
+
+* I testes this page on multiple browsers and it shows properly. I also added the css code to the _Autoprefixer_ website to add any vendor prefixes.
+* I used the inspect function in Chrome to verify the responsiveness of the website on different screens.
+* I tested all the links in the navigation page and they all work and connect to the other pages of the website. I also tested the external link and that they open on new tabs to improve the user experience.
+* The donate form and the contact us form wor properly and their important field have to be filled before a submission is possible. Upon successfull completion, the user will be taken to a success pag to ensure the user that the form was submitted properly.
+* I also tested the internal links from different pages to ensure that they all work.
+<br>
+
+## Bugs <br>
+
+### solved bugs <br>
+
+* When I deployed the project to Github Pages the background image did not show. I run multiple tests and finally found the issue. It was the path of the image. I added two dots in front of the path and the image was displayed.
+
+ ' background-image: url('../images/background.jpg');'
+
+* I also found another bug while testing for screen responsiveness. Although I used the media queries to adjust the width. It was not responsive and it did not behave as I wanted. After using the inspect tool and a consultation, I found that the problem was caused by the size of the images. I added a css styling to ensure that the images will also change size when the type of screen is changed. It fixed the problem.
+
+### 
 
 
 
