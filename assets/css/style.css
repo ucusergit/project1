@@ -13,7 +13,6 @@
     
 }
 
-
 /* General rules for the body to set the repeating background image  */
 body{   
     color: #3a3a3a;
@@ -146,7 +145,7 @@ footer {
     font-size: 1.2rem;
     flex-flow: row-reverse wrap;
    
-  }
+}
 
 /* To change color when hovering over the social media icons  */
 #social-media i:hover{
@@ -183,7 +182,7 @@ footer {
 /* ------------------------- */
 
 
-/* Media queries */
+/* Media queries ------------------------------------------------------------------------*/
 
 /* Medium devices (tablets, 320px and up) */
 @media screen and (min-width: 320px) {
@@ -204,9 +203,6 @@ footer {
         height: 15vh;
     }
 }
-
-
-
 
 /* Medium devices (tablets, 576px and up) */
 @media screen and (min-width: 576px) {
@@ -230,8 +226,6 @@ footer {
 
 }
 
-
-
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -251,7 +245,6 @@ footer {
     }
 }
 
-
 /* Large devices (small laptops, 992px and up) */
 @media screen and (min-width: 992px) {
 
@@ -270,7 +263,6 @@ footer {
     }
 }
 
-
 /* xl devices (large desktops, 1200px and up) */
 @media screen and (min-width: 1200px) {
  
@@ -283,7 +275,6 @@ footer {
     }
 
 }
-
 
 /* xxl devices (larger desktops, 1400px and up) */
 @media screen and (min-width: 1400px) {
