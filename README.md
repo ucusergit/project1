@@ -4,7 +4,7 @@ The History Of Muslim Scientists project is a website that will bring you back t
 Moreover, it can be useful to wide range of people who may feel the need to know this information such as, science and theology students, muslims who wanted to know more about their heritage, newly convert who are curious to know about the contribution of muslim scientists and how religion was a fuel for these people to excel as religion require them to seek knowledge and learn science. <br>
 <br>
 This a picture that show how the website appears on multiple devices:<br><br>
-![picture that show how the website appear on different devices](/assets/readmeimages/projectondevices.png)
+![picture that show how the website appear on different devices](assets/readmeimages/projectondevices.png)
 <br><br>
 
 ## Features <br>
@@ -19,8 +19,9 @@ We have many features available for our users to make browsing the website easy 
     - Since the middle ages were named the golden ages for muslim scientists we have chosen a golden color to be the primary color of the site and thus it was chosed as a background color for the navigation bar.
     - The bar also have a _contact us_ and a _donate_ links for you to contact us and to donate to our cause.
 <br>
-![An image of the header](/assets/readmeimages/header.png)
+![An image of the header](assets/readmeimages/header.png)
 <br>
+
 
 
 
