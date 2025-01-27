@@ -13,14 +13,14 @@
     
 }
 /* General rules for the entire page  */
-* {
+/* * {
     padding: 0;
     margin: 0;
-}
+} */
 
 /* General rules for the body to set the repeating background image  */
 body{   
-    color: #A9A9A9;
+    color: #3a3a3a;
     background-image: url('/assets/images/background.jpg');
     background-repeat: repeat;
     background-color: #ffffff;
@@ -68,14 +68,28 @@ body header div a{
     text-decoration: none !important;
 }
 
-/* To target the centered div where the main content is  */
-#mypage > section > div {
-    background-color: rgba(256, 256, 256, 0.9);
-    height: 100vh;
-    width:75%;
+main {
+    background-color: rgba(256, 256, 256, 0.8);
+
+}
+/* Hide an element  */
+
+.hiddden{
+    display: none;
+}
+
+/* setting width and height of main  */
+
+.main-dimensions{
+    height: 100%;
+    width:80%;
     margin-left: auto; 
     margin-right: auto;
 }
+
+
+/* To target the centered div where the main content is  */
+
 
 /* Used to set some space on top of the page to drop down the header */
 .top-space{
@@ -116,7 +130,7 @@ footer {
 }
   
 /* Used to present the social media icons list element horizontaly */
- #social-media li {
+#social-media li {
     display: inline-block;
     margin-right: 10px; /* add spacing between items */
     padding-top: 5px;
@@ -130,6 +144,29 @@ footer {
     color: #dbdbfe;
 }
 
+/* To size the image in the page and place it properly */
+#mypage img {
+    height: 80vh;
+    width: 80vh;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.text-top-margin{
+    margin-top: 2rem;
+}
+
+.text-left-margin{
+    margin-left: 2rem;
+}
+
+.text-btm-margin{
+    margin-bottom: 4rem;
+}
+
+/* To add top margin to text  */
+
 
 /* Media queries */
 
@@ -141,10 +178,17 @@ footer {
     }
 
     /* Used to remove the left and right margins for mobile screens  */
-    #mypage section div {
-        width: 100%;
+    .main-dimensions{
+        height: 100%;
+        width:100%;
+        margin-left: 20%; 
+        margin-right: 20%;
     }
 
+    img{
+        width: 200px;
+        height: 200px;
+    }
 }
 
 
@@ -158,10 +202,9 @@ footer {
     }
 
     /* Used to set margin left and right for screens larger than the mobile  */
-    #mypage > section > div {
-        background-color: rgba(256, 256, 256, 0.9);
-        height: 100vh;
-        width:75%;
+    .main-dimensions{
+        height: 100%;
+        width:80%;
         margin-left: auto; 
         margin-right: auto;
     }
@@ -176,10 +219,9 @@ footer {
 @media screen and (min-width: 768px) {
 
     /* Used to set margin left and right for screens larger than the mobile  */
-    #mypage > section > div {
-        background-color: rgba(256, 256, 256, 0.9);
-        height: 100vh;
-        width:75%;
+    .main-dimensions{
+        height: 100%;
+        width:80%;
         margin-left: auto; 
         margin-right: auto;
     }
@@ -191,10 +233,9 @@ footer {
 @media screen and (min-width: 992px) {
 
     /* Used to set margin left and right for screens larger than the mobile  */
-    #mypage > section > div {
-        background-color: rgba(256, 256, 256, 0.9);
-        height: 100vh;
-        width:75%;
+    .main-dimensions{
+        height: 100%;
+        width:80%;
         margin-left: auto; 
         margin-right: auto;
     }
@@ -206,10 +247,9 @@ footer {
 @media screen and (min-width: 1200px) {
  
     /* Used to set margin left and right for screens larger than the mobile  */
-    #mypage > section > div {
-        background-color: rgba(256, 256, 256, 0.9);
-        height: 100vh;
-        width:75%;
+    .main-dimensions{
+        height: 100%;
+        width:80%;
         margin-left: auto; 
         margin-right: auto;
     }
@@ -221,10 +261,9 @@ footer {
 @media screen and (min-width: 1400px) {
 
     /* Used to set margin left and right for screens larger than the mobile  */
-    #mypage > section > div {
-        background-color: rgba(256, 256, 256, 0.9);
-        height: 100vh;
-        width:75%;
+    .main-dimensions{
+        height: 100%;
+        width:80%;
         margin-left: auto; 
         margin-right: auto;
     }
