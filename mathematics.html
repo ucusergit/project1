@@ -30,12 +30,11 @@
 
 <body>
 
-
+    <!-- Code used below is taken from Bootstrap to create a navbar  -->
     <Header class="fixed-top">
         <a class="d-inline-block navbar-brand display1" href="index.html">
             <h1 class="set-font"><strong>History Of Muslim Scientists</strong></h1>
         </a>
-
         <nav class="navbar set-bkgrnd set-d-color navbar-expand-lg fixed-top top-space">
             <div class="container-fluid">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -47,6 +46,7 @@
                         <li class="nav-item">
                             <a class="nav-link" href="index.html">Home</a>
                         </li>
+                        <!-- below code is taken from Bootstrap to nest a dropdown inside the navbar -->
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                                 aria-expanded="false">
@@ -64,6 +64,7 @@
                             <a class="nav-link" href="contact.html">Contact us</a>
                         </li>
                         <li class="nav-item ms-auto">
+                            <!-- This line of code was taken from stackoverflow, I tried nestin an anchor inside a button but the html validator considered that a bad practice  -->
                             <a href="donate.html"
                                 class="btn custom-button-outline button-highlight set-d-color mb-4">Donate</a>
                         </li>
@@ -71,14 +72,13 @@
                 </div>
             </div>
         </nav>
-
     </Header>
 
-
-
+    <!-- Start of main section  -->
     <main class="main-dimensions top-space-header">
         <section id="mypage" >
             <div>
+                <!-- Code from the bootstrap website to create a grid  -->
                 <div class="container text-center justify-text">
                     <div class="row">
                         <div class="col">

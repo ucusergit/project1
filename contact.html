@@ -26,16 +26,15 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<!-- Classes on body set to work with mt-auto on footer to ensure it always stays at the bottom of the page -->
-
 <body>
 
-
+    <!-- The following code is used from bootstrap to create a navbar  -->
     <Header class="fixed-top">
-        <a class="d-inline-block navbar-brand display1" href="index.html"><h1 class="set-font"><strong>History Of Muslim Scientists</strong></h1></a> 
-        
+        <a class="d-inline-block navbar-brand display1" href="index.html">
+            <h1 class="set-font"><strong>History Of Muslim Scientists</strong></h1>
+        </a>
         <nav class="navbar set-bkgrnd set-d-color navbar-expand-lg fixed-top top-space">
-            <div class="container-fluid"> 
+            <div class="container-fluid">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -45,22 +44,26 @@
                         <li class="nav-item">
                             <a class="nav-link" href="index.html">Home</a>
                         </li>
+                        <!-- This code is take from bootstrap to created a nested list that contain a dropdown inside the navbar  -->
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">
                                 Disciplines
                             </a>
                             <ul class="dropdown-menu set-bkgrnd">
-                              <li><a class="dropdown-item" href="mathematics.html">Mathematics</a></li>
-                              <li><a class="dropdown-item" href="chemistry.html">Chemistry</a></li>
-                              <li><a class="dropdown-item" href="physics.html">Physics</a></li>
-                              <li><a class="dropdown-item" href="medicine.html">Medicine</a></li>
-                              <li><a class="dropdown-item" href="wis.html">Women in Science</a></li>
+                                <li><a class="dropdown-item" href="mathematics.html">Mathematics</a></li>
+                                <li><a class="dropdown-item" href="chemistry.html">Chemistry</a></li>
+                                <li><a class="dropdown-item" href="physics.html">Physics</a></li>
+                                <li><a class="dropdown-item" href="medicine.html">Medicine</a></li>
+                                <li><a class="dropdown-item" href="wis.html">Women in Science</a></li>
                             </ul>
                         <li class="nav-item">
-                             <a class="nav-link active" aria-current="page" href="contact.html">Contact us</a>
+                            <a class="nav-link active" aria-current="page" href="contact.html">Contact us</a>
                         </li>
                         <li class="nav-item ms-auto">
-                            <a href="donate.html" class="btn custom-button-outline button-highlight set-d-color mb-4">Donate</a>
+                            <!-- This line of code was taken from stackoverflow, I tried nestin an anchor inside a button but the html validator considered that a bad practice  -->
+                            <a href="donate.html"
+                                class="btn custom-button-outline button-highlight set-d-color mb-4">Donate</a>
                         </li>
                     </ul>
                 </div>
@@ -69,12 +72,11 @@
 
     </Header>
 
-
-
     <!-- Main section -->
     <main class="main-dimensions top-space-header">
-        <section id="mypage" >
+        <section id="mypage">
             <div>
+                <!-- Code from the bootstrap website to create a grid  -->
                 <div class="container text-center justify-text">
                     <form action="success.html" method="GET">
                         <div class="row">
@@ -96,19 +98,22 @@
                         <div class="row">
                             <div class="col">
                                 <label for="name" class="form-label">Full Name</label>
-                                <input class="form-control" placeholder="Enter Your Full Name" id="name" name="name" type="text" required>
+                                <input class="form-control" placeholder="Enter Your Full Name" id="name" name="name"
+                                    type="text" required>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col">
                                 <label for="email" class="form-label">Email Address</label>
-                                <input class="form-control" id="email" placeholder="Enter Your Email" name="email" type="email" required>
+                                <input class="form-control" id="email" placeholder="Enter Your Email" name="email"
+                                    type="email" required>
                             </div>
                         </div>
                         <div class="row text-sm-btm-margin">
                             <div class="col">
                                 <label for="message" class="form-label">Your Feedback</label>
-                                <input class="form-control" placeholder="Enter Your Feedback Here" id="message" name="message" type="message" required>
+                                <input class="form-control" placeholder="Enter Your Feedback Here" id="message"
+                                    name="message" type="message" required>
                             </div>
                         </div>
                         <button type="submit" class="btn btn-primary button-highlight set-d-color mb-4">Submit</button>
@@ -154,7 +159,7 @@
                         <i class="fa-brands fa-tiktok"></i></a>
                 </li>
             </ul>
-        </div> 
+        </div>
     </footer>
 
 
