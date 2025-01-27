@@ -29,6 +29,34 @@ We have many features available for our users to make browsing the website easy 
 ![picture of the header of the home page](assets/readmeimages/header.png)
 <br>
 
+- Disciplines Sections
+    - There are five disciplines on this site Mathematics, Physics, Chemistry, Medicine and Women in Science.
+    - Each section shows multiple scientists in that field followed by an article that describes their life and their achievemnts. An example is shown in the folowwing pictures:
+
+![mathematics page](assets/readmeimages/methematics.png)
+![physics page](assets/readmeimages/physics.png)
+![chemistry page](assets/readmeimages/chemistry.png)
+![medicine page](assets/readmeimages/medicine.png)
+![women in science page](assets/readmeimages/wis.png)
+![example of content page](assets/readmeimages/content.png)
+
+- Footer section
+    - The footer also has a golden color background and it is at the bottom of the page.
+    - It contains link to our social media platform for the users to connect with us and to learn more about the history of muslim scientists.
+
+![footer image](assets/readmeimages/footer)
+
+- Contact us section
+    - The contact us section provide a way for website users to share their feedback and general questions with us.
+
+![Contact us page image](assets/readmeimages/contactus.png)
+
+- Donate section
+    - This section is available so that our users can donate to our organisation to support our effort to spread the message and improve the site.
+    - In the future, this section will also feature links to other organisations that support the goal so that our users can have many option to where they would like to donate.
+
+![donate page image](assets/readmeimages/donate.png)
+
 
 
 
