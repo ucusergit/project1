@@ -18,7 +18,7 @@ We have many features available for our users to make browsing the website easy 
     - The is a _disciplines_ section that helps you navigate the different disciplines we have on the site.
     - Since the middle ages were named the golden ages for muslim scientists we have chosen a golden color to be the primary color of the site and thus it was chosed as a background color for the navigation bar.
     - The bar also have a _contact us_ and a _donate_ links for you to contact us and to donate to our cause.
-<br>
+
 ![an image of the header](/assets/readmeimages/header.png)
 <br>
 
