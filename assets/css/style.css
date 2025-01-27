@@ -157,11 +157,13 @@ footer {
 
 /* To size the image in the page and place it properly */
 #mypage img {
-    height: 80vh;
-    width: 80vh;
+    height: 50%;
+    width: 50%;
     margin-top: 2rem;
     margin-left: 2rem;
     justify-content: center;
+    object-fit: cover;
+    margin-bottom: 20px;
 }
 
 /* To add top margin to text  */
@@ -195,7 +197,7 @@ footer {
     /* Used to remove the left and right margins for mobile screens  */
     .main-dimensions{
         height: 100%;
-        width:100vh;
+        width:100%;
         justify-content:center;
     }
 
@@ -219,15 +221,13 @@ footer {
     /* Used to set margin left and right for screens larger than the mobile  */
     .main-dimensions{
         height: 100%;
-        width: 100vh;
-        margin-left: auto; 
-        margin-right: auto;
+        width: 100%;
+        justify-content:center;
     }
 
-    #mypage > div > div img *{
+    img{
         width: 15vh;
-        height: 15vh;
-      
+        height: 15vh; 
     }
 
 }
