@@ -22,7 +22,7 @@ We have many features available for our users to make browsing the website easy 
 ![an image of the header](assets/readmeimages/header.png)
 <br>
 
-
+assets/readmeimages/header.png
 
 
 
