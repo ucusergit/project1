@@ -23,8 +23,8 @@ body{
     background-attachment: fixed;
 }
 
+/* styling the header  */
 header {
-    /* --bs-navbar-color: none */
     background-color: var(--primary-clr);
     height: 3rem;
     text-align: center; 
@@ -37,6 +37,7 @@ header {
     border-color: var(--secondary-clr);
 }
 
+/* This create an effect when the mouse hover over the donate button  */
 .button-highlight:hover {
     color: var(--secondary-clr);
     background-color: var(--highlight-clr-light);
@@ -77,6 +78,7 @@ body header div a{
     text-decoration: none !important;
 }
 
+/* This sets a white background that is partially transparent  */
 main {
     background-color: rgba(256, 256, 256, 0.8);
 }
@@ -87,7 +89,6 @@ main {
 }
 
 /* setting width and height of main  */
-
 .main-dimensions{
     height: 100%;
     width:80%;
@@ -95,13 +96,15 @@ main {
     margin-right: auto;
 }
 
+/* This was added to ensure pictures has a certain dimensions  */
 .fix-dimensions{
     height: 200px;
-    width:200px;
+    width: 200px;
 }
 
+/* This line was taken from Stack Overflow to make to justify a text  */
 .justify-text{
-    text-align:justify;
+    text-align: justify;
 }
 
 /* Used to set some space on top of the page to drop down the header */
@@ -131,7 +134,6 @@ footer {
 
 /* Used to remove the list styles from the social media icons */
 #social-media{
-    
     list-style-type: none;
     list-style: none;
 }
@@ -149,7 +151,6 @@ footer {
     padding-top: 5px;
     font-size: 1.2rem;
     flex-flow: row-reverse wrap;
-   
 }
 
 /* To change color when hovering over the social media icons  */
@@ -215,7 +216,7 @@ footer {
 
 /* Medium devices (tablets, 320px and up) */
 @media screen and (max-width: 410px) {
-
+     /* This media query ensures that our main heading is visible when viewing the site on mobile devices  */
     header a h1 *{
         font-size:medium;
     }
