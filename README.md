@@ -84,7 +84,8 @@ At the moment there are no unsolved bugs.
 
 * HTML validator
 
-
+    * Fixed an error in the chemistry file as I used a ul inside a ul and it was supposed to be li for the list elements. Fixed the issue and no error were found after that.
+    * 
 
 * CSS validator
 
