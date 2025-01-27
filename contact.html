@@ -32,7 +32,7 @@
 
 
     <Header class="fixed-top">
-        <a class="d-inline-block navbar-brand display1" href="#"><h1 class="set-font"><strong>History Of Muslim Scientists</strong></h1></a> 
+        <a class="d-inline-block navbar-brand display1" href="index.html"><h1 class="set-font"><strong>History Of Muslim Scientists</strong></h1></a> 
         
         <nav class="navbar set-bkgrnd set-d-color navbar-expand-lg fixed-top top-space">
             <div class="container-fluid"> 
@@ -70,22 +70,50 @@
     </Header>
 
 
+
     <!-- Main section -->
     <main id="mypage" class="top-space-header">
         <section>
-            <div class="clear-header">
+            <div>
                 <div class="container text-center justify-text">
-                    <div class="row clear-header">
-                        <div class="col">
-                            <h2 class="uppercase h1 text-btm-margin text-top-margin set-text-color">Success!</h2>
+                    <form action="success.html" method="GET">
+                        <div class="row">
+                            <div class="col">
+                                <h2 class="uppercase h1 text-btm-margin text-top-margin set-text-color"></h2>
+                            </div>
                         </div>
-                    </div>
-                    <div class="row clear-header">
-                        <div class="col">
-                            <h3 class="uppercase h2 set-text-color">To go back to the main page, please click on te link below</h3>
-                            <a href="#index.html">Back to the Home page </a>
+                        <div class="row">
+                            <div class="col">
+                                <h3 class="uppercase h2 set-text-color"></h3>
+                            </div>
                         </div>
-                    </div>
+                        <div class="row">
+                            <div class="col">
+                                <h2><strong>Feedback Form</strong></h2>
+                                <p>Your feedback is essential for our growth, we thank you in advance:</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <label for="name" class="form-label">Full Name</label>
+                                <input class="form-control" placeholder="Enter Your Full Name" id="name" name="name" type="text" required>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <label for="email" class="form-label">Phone Number</label>
+                                <input class="form-control" id="email" placeholder="Enter Your Email" name="email" type="email" required>
+                            </div>
+                        </div>
+                        <div class="row text-sm-btm-margin">
+                            <div class="col">
+                                <label for="message" class="form-label">Your Feedback</label>
+                                <input class="form-control" placeholder="Enter Your Feedback Here" id="message" name="message" type="message" required>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary button-highlight set-d-color mb-4">Submit</button>
+                        <!-- <a href="success.html" class="btn custom-button-outline button-highlight set-d-color mb-4">Donate</a> -->
+                    </form>
                 </div>
             </div>
         </section>

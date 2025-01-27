@@ -33,8 +33,14 @@ header {
 
 /* Used to set the highlight button styles */
 .button-highlight {
-    color: white;
+    color: var(--secondary-clr);
     background-color: #dbdbfe;
+    border-color: var(--secondary-clr);
+}
+
+.button-highlight:hover {
+    color: var(--secondary-clr);
+    background-color: var(--highlight-clr-light);
     border-color: var(--secondary-clr);
 }
 
@@ -171,10 +177,10 @@ footer {
     margin-bottom: 4rem;
 }
 
-/* Top margin to push content down from header  */
-.clear-header{
-    top-margin: 5rem;
+.text-sm-btm-margin{
+    margin-bottom: 10px;
 }
+
 
 
 /* Media queries */
