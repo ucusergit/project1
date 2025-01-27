@@ -12,11 +12,7 @@
     --highlight-clr-light: #f6dfca; /* lighter Brown */
     
 }
-/* General rules for the entire page  */
-/* * {
-    padding: 0;
-    margin: 0;
-} */
+
 
 /* General rules for the body to set the repeating background image  */
 body{   
@@ -50,9 +46,9 @@ header {
 /* to set the color and font for the settings */
 h1, h2, h3{
     color: var(--secondary-clr);
-    font: var(--secondary-font) ;
-    
+    font: var(--secondary-font);
 }
+
 
 /* To override the styling that comes with the .active bootstrap class */
 body header div .active {
@@ -87,8 +83,10 @@ main {
     margin-right: auto;
 }
 
-
-/* To target the centered div where the main content is  */
+.fix-dimensions{
+    height: 200px;
+    width:200px;
+}
 
 
 /* Used to set some space on top of the page to drop down the header */
@@ -150,9 +148,10 @@ footer {
     width: 80vh;
     margin-top: 2rem;
     margin-left: 2rem;
-    text-align: center;
+    justify-content: center;
 }
 
+/* To add top margin to text  */
 .text-top-margin{
     margin-top: 2rem;
 }
@@ -165,7 +164,7 @@ footer {
     margin-bottom: 4rem;
 }
 
-/* To add top margin to text  */
+
 
 
 /* Media queries */
@@ -180,14 +179,13 @@ footer {
     /* Used to remove the left and right margins for mobile screens  */
     .main-dimensions{
         height: 100%;
-        width:100%;
-        margin-left: 20%; 
-        margin-right: 20%;
+        width:100vh;
+        justify-content:center;
     }
 
     img{
-        width: 200px;
-        height: 200px;
+        width: 15vh;
+        height: 15vh;
     }
 }
 
@@ -204,14 +202,18 @@ footer {
     /* Used to set margin left and right for screens larger than the mobile  */
     .main-dimensions{
         height: 100%;
-        width:80%;
+        width: 100vh;
         margin-left: auto; 
         margin-right: auto;
     }
 
+    #mypage > div > div img *{
+        width: 15vh;
+        height: 15vh;
+      
+    }
+
 }
-
-
 
 
 
@@ -221,11 +223,16 @@ footer {
     /* Used to set margin left and right for screens larger than the mobile  */
     .main-dimensions{
         height: 100%;
-        width:80%;
+        width: 90vh;
         margin-left: auto; 
         margin-right: auto;
     }
 
+    #mypage > div > div img *{
+        width: 15vh;
+        height: 15vh;
+      
+    }
 }
 
 
@@ -239,7 +246,10 @@ footer {
         margin-left: auto; 
         margin-right: auto;
     }
-
+    #mypage > div > div > img *{
+        width: 40%;
+        height: 40%;
+    }
 }
 
 
