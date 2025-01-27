@@ -48,6 +48,11 @@ header {
     font: 30px arial;
 }
 
+/* Ensuring title width changes based on screen size  */
+#title-width{
+    width: 90%;
+}
+
 /* to set the color and font for the settings */
 h1, h2, h3, h4{
     color: var(--secondary-clr);
@@ -201,6 +206,18 @@ footer {
     img{
         width: 15vh;
         height: 15vh;
+    }
+
+    header a h1 {
+        font-size:medium;
+    }
+}
+
+/* Medium devices (tablets, 320px and up) */
+@media screen and (max-width: 410px) {
+
+    header a h1 *{
+        font-size:medium;
     }
 }
 
