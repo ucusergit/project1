@@ -155,11 +155,11 @@ footer {
 /* To size the image in the page and place it properly */
 #mypage img {
     height: 80%;
-    width: 360px;
+    width: 50%;
     margin-top: 2rem;
     margin-left: 2rem;
     justify-content: center;
-    object-fit: cover;
+    object-fit: contain;
     box-shadow: 5px 5px 5px #D5B139;
 }
 
