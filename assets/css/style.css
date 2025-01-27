@@ -157,13 +157,13 @@ footer {
 
 /* To size the image in the page and place it properly */
 #mypage img {
-    height: 50%;
-    width: 50%;
+    height: 80%;
+    width: 360px;
     margin-top: 2rem;
     margin-left: 2rem;
     justify-content: center;
     object-fit: cover;
-    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px #D5B139;
 }
 
 /* To add top margin to text  */
