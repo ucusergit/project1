@@ -7,7 +7,7 @@
     --primary-font: "Open-sans", sans-serif;
     --secondary-font: "Montserrat", Arial;
     --primary-clr: #D5B139;     /* Metalic Gold */
-    --secondary-clr: #040273;   /* Dark Emerald Green */
+    --secondary-clr: #040273;   /* DArk Blua */
     --highlight-clr: #e9ac75;   /* Light Brown */
     --highlight-clr-light: #f6dfca; /* lighter Brown */
     
@@ -44,11 +44,15 @@ header {
 }
 
 /* to set the color and font for the settings */
-h1, h2, h3{
+h1, h2, h3, h4{
     color: var(--secondary-clr);
     font: var(--secondary-font);
 }
 
+/* Set dark blue color for text  */
+.set-text-color{
+    color:var(--secondary-clr);
+}
 
 /* To override the styling that comes with the .active bootstrap class */
 body header div .active {
@@ -88,6 +92,9 @@ main {
     width:200px;
 }
 
+.justify-text{
+    text-align:justify;
+}
 
 /* Used to set some space on top of the page to drop down the header */
 .top-space{
@@ -104,7 +111,7 @@ main {
 }
 
 /* to set the color  */
-.set-color *{
+.set-d-color *{
     color: var(--secondary-clr);
 }
 
@@ -164,7 +171,10 @@ footer {
     margin-bottom: 4rem;
 }
 
-
+/* Top margin to push content down from header  */
+.clear-header{
+    top-margin: 5rem;
+}
 
 
 /* Media queries */
@@ -188,6 +198,7 @@ footer {
         height: 15vh;
     }
 }
+
 
 
 
