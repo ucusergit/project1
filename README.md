@@ -19,9 +19,15 @@ We have many features available for our users to make browsing the website easy 
     - Since the middle ages were named the golden ages for muslim scientists we have chosen a golden color to be the primary color of the site and thus it was chosed as a background color for the navigation bar.
     - The bar also have a _contact us_ and a _donate_ links for you to contact us and to donate to our cause.
 
-![an image of the header](/assets/readmeimages/header.png)
+![an image of the header](/assets/readmeimages/navigation.png)
 <br>
 
+- The Header
+    - The header shows a picture of a mosque. the mosque picture was taken by my friend Mr Naas who owns the right to the picture. The picture is the inside of a mosque in Turkey.
+    - Under the picture there is a short description of the site and what it provides.
+
+![picture of the header of the home page](assets/readmeimages/header.png)
+<br>
 
 
 
