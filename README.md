@@ -44,7 +44,7 @@ We have many features available for our users to make browsing the website easy 
     - The footer also has a golden color background and it is at the bottom of the page.
     - It contains link to our social media platform for the users to connect with us and to learn more about the history of muslim scientists.
 
-![footer image](assets/readmeimages/footer)
+![footer image](assets/readmeimages/footer.png)
 
 - Contact us section
     - The contact us section provide a way for website users to share their feedback and general questions with us.
