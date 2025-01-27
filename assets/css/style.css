@@ -68,7 +68,6 @@ body header div .active {
     text-decoration: none !important;
 }
 
-
 /* To remove the underline from the header button  */
 body header div a{
     text-decoration: none !important;
@@ -76,10 +75,9 @@ body header div a{
 
 main {
     background-color: rgba(256, 256, 256, 0.8);
-
 }
-/* Hide an element  */
 
+/* Hide an element  */
 .hiddden{
     display: none;
 }
@@ -166,7 +164,7 @@ footer {
     box-shadow: 5px 5px 5px #D5B139;
 }
 
-/* To add top margin to text  */
+/* To add margin to text  */
 .text-top-margin{
     margin-top: 2rem;
 }
@@ -182,7 +180,7 @@ footer {
 .text-sm-btm-margin{
     margin-bottom: 10px;
 }
-
+/* ------------------------- */
 
 
 /* Media queries */
@@ -224,7 +222,7 @@ footer {
         width: 100%;
         justify-content:center;
     }
-
+    /* Used to control image size  */
     img{
         width: 15vh;
         height: 15vh; 
@@ -245,6 +243,7 @@ footer {
         margin-right: auto;
     }
 
+    /* Used to control image size  */
     #mypage > div > div img *{
         width: 15vh;
         height: 15vh;
@@ -263,6 +262,8 @@ footer {
         margin-left: auto; 
         margin-right: auto;
     }
+
+    /* Used to control image size  */
     #mypage > div > div > img *{
         width: 40%;
         height: 40%;
