@@ -124,54 +124,28 @@ At the moment there are no unsolved bugs.
 
     * <ins>Contact page</ins> <br>
 
-       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+       - The results were similar to previous page so we will not repeat the same the provided information. <br>
 
     ![lighthouse test result for chemistry page](assets/readmeimages/lh_contact.png) <br>
 
     * <ins>Donate page</ins> <br>
 
-       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+       - The results were similar to previous page so we will not repeat the same the provided information. <br>
 
     ![lighthouse test result for chemistry page](assets/readmeimages/lh_donate.png) <br>
 
     * <ins>Index page</ins> <br>
 
-       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+       - The results we similar except with the performance being only 96% here. This is die to the large image in the home page. An image of the message is added below. <br>
 
     ![lighthouse test result for chemistry page](assets/readmeimages/lh_index.png) <br>
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_index2.png) <br>
 
     * <ins>Mathematics page</ins> <br>
 
-       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+       - For the disciplines pages we will only run the mathematics page as they all have the same structure. <br>
 
     ![lighthouse test result for chemistry page](assets/readmeimages/lh_math.png) <br>
 
-    * <ins>Medicine page</ins> <br>
-
-       - The results we similar to previous page so we will not repeat the same the provided information. <br>
-
-    ![lighthouse test result for chemistry page](assets/readmeimages/lh_medicine.png) <br>
-
-    * <ins>Physics page</ins> <br>
-
-       - The results we similar to previous page so we will not repeat the same the provided information. <br>
-
-    ![lighthouse test result for chemistry page](assets/readmeimages/lh_physics.png) <br>
-
-    * <ins>Success page</ins> <br>
-
-       - The results we similar to previous page so we will not repeat the same the provided information. <br>
-
-    ![lighthouse test result for chemistry page](assets/readmeimages/lh_success.png) <br>
-
-    * <ins>Women in Science page</ins> <br>
-
-       - The results we similar to previous page so we will not repeat the same the provided information. <br>
-
-    ![lighthouse test result for chemistry page](assets/readmeimages/lh_wis.png) <br>
-
-
-
-
-
+    
 
