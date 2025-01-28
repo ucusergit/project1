@@ -88,7 +88,7 @@ At the moment there are no unsolved bugs.
     * In the contact page, I found an error in the input tag for message. I had to remove the required option and remove the placeholder and change the type to text. No errors were found after that.
     * In the donate page, I also changed the type of the message input to text. No errors were found after that.
     * In the index page, article tags were creating an issue as they require a heading. Removed the article tags and there were no errors after that.
-    
+    * In the mathematics page, I also removed the article tag and the there was no errors after that.
 
 * CSS validator
 
