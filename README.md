@@ -86,6 +86,7 @@ At the moment there are no unsolved bugs.
 
     * Fixed an error in the chemistry file as I used a ul inside a ul and it was supposed to be li for the list elements. Fixed the issue and no error were found after that.
     * In the contact page, I found an error in the input tag for message. I had to remove the required option and remove the placeholder and change the type to text. No errors were found after that.
+    * In the donate page, I also changed the type of the message input to text. No errors were found after that.
     * 
 
 * CSS validator
