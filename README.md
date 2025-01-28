@@ -97,8 +97,78 @@ At the moment there are no unsolved bugs.
 
      ![HTML validator green bar showing no errors](assets/readmeimages/cssvalidator.png)
 
+* Lghthouse tool (accessibility)
 
+    This test was completed for all the pages and the results are below. One error appeared on all the tests and it is related to the antivirus I have on my laptop. It always include a javascript line in my code and I could not remove it. So, lighthouse finds it each time and give me an error of uhaving unused javascript. an image of that message will be provided.
 
+    * <ins>Chemistry page</ins> <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_chemistry.png) <br><br>
+            
+       - The results show 100% in accessibility so it has passed the test.
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_chemistry2.png)  <br><br>
+
+       - This part of the test shows the potential savings that we can make in term of the time required to load the page. Lighthouse call it the render-blocking resources.
+       - We cannot change those services as they are outside tools that were used to build the project so we do not have any control on how they are made. These include  _Googlefonts_ and _Bootstrap_, plus my Antivirus.
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_chemistry3.png)  <br><br>
+
+       - "Enable text compression" This part of the result also include other potential savings and it is related to the antivirus.
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_chemistry4.png)  <br><br>
+
+       - The "minify Javascript" is about the antivirus on my computer.
+       - "Serve static assets" is about the images used. I already compressed all the images and used the webp version. Except for the background image. I found that the jpg format occupied less storage than the webp format so I used used the jpg format.
+       - The "unused CSS" is for Fontawesome website.
+
+    * <ins>Contact page</ins> <br>
+
+       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_contact.png) <br>
+
+    * <ins>Donate page</ins> <br>
+
+       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_donate.png) <br>
+
+    * <ins>Index page</ins> <br>
+
+       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_index.png) <br>
+
+    * <ins>Mathematics page</ins> <br>
+
+       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_math.png) <br>
+
+    * <ins>Medicine page</ins> <br>
+
+       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_medicine.png) <br>
+
+    * <ins>Physics page</ins> <br>
+
+       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_physics.png) <br>
+
+    * <ins>Success page</ins> <br>
+
+       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_success.png) <br>
+
+    * <ins>Women in Science page</ins> <br>
+
+       - The results we similar to previous page so we will not repeat the same the provided information. <br>
+
+    ![lighthouse test result for chemistry page](assets/readmeimages/lh_wis.png) <br>
 
 
 
