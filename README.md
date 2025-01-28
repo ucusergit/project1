@@ -179,13 +179,14 @@ The deployed website can be found here: [The History of Muslim Scientists](https
     * [Muslim Women Mathematicians website](https://muslimwomenmathematicians.org/Fatima.html)
     * [Mawdoo3.com](https://mawdoo3.com/%D9%85%D9%86_%D9%87%D9%88_%D8%AC%D8%A7%D8%A8%D8%B1_%D8%A8%D9%86_%D8%AD%D9%8A%D8%A7%D9%86) 
     * [1001inventions.com](https://www.1001inventions.com/) 
-    * [trtworld.com](https://www.trtworld.com/magazine/mariam-al-astrulabi-a-muslim-woman-behind-the-10th-century-astrolabes-43479) 
+    * [trtworld.com - Al-Astrulabi](https://www.trtworld.com/magazine/mariam-al-astrulabi-a-muslim-woman-behind-the-10th-century-astrolabes-43479) 
     * [The Wikipedia page](https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%B2%D9%8A) 
     * [Wikipedia - Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) 
     * [Wikipedia - Al-Ghazali](https://en.wikipedia.org/wiki/Al-Ghazali) 
     * [Wikipedia - Khashkhash Ibn Saeed](https://en.wikipedia.org/wiki/Khashkhash_Ibn_Saeed_Ibn_Aswad) 
     * [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2612469/) 
-    * [trtworld.com](https://www.trtworld.com/magazine/mariam-al-astrulabi-a-muslim-woman-behind-the-10th-century-astrolabes-43479 
-https://en.wikipedia.org/wiki/Muhammad_al-Idrisi)
+    * [trtworld.com-AlIdrissi](https://www.trtworld.com/magazine/mariam-al-astrulabi-a-muslim-woman-behind-the-10th-century-astrolabes-43479 
+https://en.wikipedia.org/wiki/Muhammad_al-Idrisi) 
+
 
 
