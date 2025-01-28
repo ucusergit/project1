@@ -76,6 +76,8 @@ We have many features available for our users to make browsing the website easy 
 
 * I also found another bug while testing for screen responsiveness. Although I used the media queries to adjust the width. It was not responsive and it did not behave as I wanted. After using the inspect tool and a consultation, I found that the problem was caused by the size of the images. I added a css styling to ensure that the images will also change size when the type of screen is changed. It fixed the problem.
 
+* I had the anchor a inside a button which generated an error. Fixed the error by only using tag "a" to create the button and implemention a button type.
+
 ### Unsolved bugs
 
 At the moment there are no unsolved bugs.
