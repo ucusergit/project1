@@ -1,4 +1,5 @@
 # The history of Muslim scientists
+[View the Github Repository here](https://github.com/ucusergit/project1)
 [View the live project here](https://ucusergit.github.io/project1/).
 <br>
 
@@ -246,7 +247,7 @@ At the moment there are no unsolved bugs.
 
 ### Github Pages
 * The site was deployed to Github Pages following the steps below:
-    * Log in to Github account, accessing project1 and navigate to settings.
+    * Log in to Github account, accessing [project1](https://github.com/ucusergit/project1) and navigate to settings.
     * Navigate to pages and change the branch to main and save.
     * The page will automatically refresh
     * Scrool again down and the Github Pages [link](https://ucusergit.github.io/project1/) will be on the first page on the right.
@@ -256,7 +257,7 @@ The deployed website can be found here: [The History of Muslim Scientists](https
 
 ### Forking the Github Repository
 
-It was not possible to fork the Github repository. The Fork button was inactive and a message was displayed that the forking is not possible because I own this repository and I am not a member of any organization.
+It was not possible to fork the [Github Repository](https://github.com/ucusergit/project1). The Fork button was inactive and a message was displayed that the forking is not possible because I own this repository and I am not a member of any organization.
 
 ## Credits
 
