@@ -13,21 +13,21 @@ This a picture that show how the website appears on multiple devices:<br><br>
 
 * First time visitor Goals
     * I would like to see a website that easy to navigate both on my laptop and my phone
-    Acceptance Criteria
-    * I want to understand what the website is about
+    Acceptance Criteria.
+    * I want to quickly know the purpose of the site.
     * I want to see reliable information so that I can come back and use this website as a reference.
 
 * Newly converted Goals
-    * want to learn more about the history of Muslim scientists and their heritage
-    * I want to learn about how this religion encourage people to pursue science and knowledge seeking
-    * I would like to proofs from the religious texts such as the Quran that talks about scientific facts
+    * I want to learn more about the history of Muslim scientists and their contributions to science.
+    * I want to learn about how this religion encourage people to pursue science and knowledge seeking.
+    * I would like to proofs from the religious texts such as the Quran that talks about scientific facts.
     
 * A Muslim Goals
     * As a muslim I want to learn more about my heritage.
     * I would like to improve my knowledge in general about the religious tests related to science.
 
 * Philantropist Goals
-    * As a Person who like to support various causes, I would like to have a support section where I can donate for this cause to develop the site and add more information to it
+    * As a Person who like to support various causes, I would like to have a support section where I can donate for this cause to develop the site and add more information to it.
     * I would like to see a list of non profit organizations on this site that I can potentially help.
 
 * Students Goal
@@ -111,17 +111,53 @@ We have many features available for our users to make browsing the website easy 
 
 ## Features I would like to add
 
-* Extra pages
-    * There are extra pages about Geography scientists, Explorers and 
+* More Disciplines
+    * There are extra pages about Geography scientists, Explorers and philosophers.
+    * The extra pages will provide information about scientists lives and their contributions.
+
+* A page that provide the user with religious text that hold scientific miracles in the Quran.
+* A page that provide religious text that encourages people to pursue science.
+* A search field from Yamli.com button that help people to search the web in English and Arabic.
+* A list of non-profit partners that support similar causes.
+
+Note: The features were not added due to the short time available, however it is planned for the future so stay tuned.
 
 ## Testing
 
-* I testes this page on multiple browsers and it shows properly. I also added the css code to the _Autoprefixer_ website to add any vendor prefixes.
+### General Testing
+
+* I testesd this page on multiple browsers and it shows properly. I also added the css code to the _Autoprefixer_ website to add any vendor prefixes.
 * I used the inspect function in Chrome to verify the responsiveness of the website on different screens.
 * I tested all the links in the navigation page and they all work and connect to the other pages of the website. I also tested the external link and that they open on new tabs to improve the user experience.
 * The donate form and the contact us form wor properly and their important field have to be filled before a submission is possible. Upon successfull completion, the user will be taken to a success pag to ensure the user that the form was submitted properly.
 * I also tested the internal links from different pages to ensure that they all work.
 <br>
+
+### Testing User Stories from User Experience (UX) Section
+
+* First time visitor Goals
+    * The website is easy to navigate and has a clear navbar that shows clearly all the section of the website.
+    * The website provides a paragraph on the front page that describes what the site is about.
+    * The information provided on the site was taken from reliable sources.
+
+* Newly converted Goals
+    * The website separate the list of science by discipline and make it easy to find the discipline wanted. Also it provides a wide range of scientists for the user curiosity.
+    * The website does not have a section for religious texts that encourage the pursue of science and it is planned in the future.
+    * The website does not have a section for religious texts that show scientific miracles in the Quran and it is planned in the future.
+    
+* A Muslim Goals
+    * Information about Muslim scientists is provided for muslims to learn about their heritage.
+    * The website does not have a section for religious texts that show scientific miracles in the Quran and it is planned in the future.
+
+* Philantropist Goals
+    * Adonate page exists for donations.
+    * The list of non profit organisations will be added in the future.
+
+* Students Goal
+    * Theology students have enough information to learn about the golden ages scientists.
+    * The contact us page is available for theology students to contact us and share their feedback.
+    * The website does not have a section for religious texts that show scientific miracles in the Quran and it is planned in the future.
+    * The website information is reliable and was extracted from reliable sources.
 
 ## Bugs <br>
 
