@@ -1,4 +1,6 @@
 # The history of Muslim scientists
+[View the live project here](https://ucusergit.github.io/project1/).
+<br>
 
 The History Of Muslim Scientists project is a website that will bring you back to the middle ages and give you a better idea on what the middle we like. The website present information about one of the most influential people in the history of science. Yes! in the history of science. What if I told you that the Americas were not first discovered by Christopher Colombus, or Isaak Newton was not the first to talk about the three laws of motion or fo you know the muslim mechanical engineer that Leonardo Devinci grow up learning from his books? It is ok if you do not know, that is why you have this website. This project is created mainly to shed light on these people and inform the public about who they are and what are their contribution.<br>
 Moreover, it can be useful to wide range of people who may feel the need to know this information such as, science and theology students, muslims who wanted to know more about their heritage, newly convert who are curious to know about the contribution of muslim scientists and how religion was a fuel for these people to excel as religion require them to seek knowledge and learn science. <br>
@@ -6,8 +8,6 @@ Moreover, it can be useful to wide range of people who may feel the need to know
 This a picture that show how the website appears on multiple devices:<br><br>
 ![picture that show how the website appear on different devices](/assets/readmeimages/projectondevices.png)
 <br><br>
-
-View the live project [here](https://ucusergit.github.io/project1/).
 
 ## User Experience (UX)
 
@@ -108,6 +108,11 @@ We have many features available for our users to make browsing the website easy 
     - In the future, this section will also feature links to other organisations that support the goal so that our users can have many option to where they would like to donate.
 
 ![donate page image](assets/readmeimages/donate.png)
+
+## Features I would like to add
+
+* Extra pages
+    * There are extra pages about Geography scientists, Explorers and 
 
 ## Testing
 
