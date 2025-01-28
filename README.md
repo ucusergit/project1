@@ -90,7 +90,12 @@ At the moment there are no unsolved bugs.
     * In the index page, article tags were creating an issue as they require a heading. Removed the article tags and there were no errors after that.
     * In the mathematics page, I also removed the article tag and the there was no errors after that.
 
+    ![HTML validator green bar showing no errors](assets/readmeimages/validator.png)
+
 * CSS validator
+    * There was no error in the CSS validator.
+
+     ![HTML validator green bar showing no errors](assets/readmeimages/cssvalidator.png)
 
 
 
