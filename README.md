@@ -7,6 +7,33 @@ This a picture that show how the website appears on multiple devices:<br><br>
 ![picture that show how the website appear on different devices](/assets/readmeimages/projectondevices.png)
 <br><br>
 
+## User Experience (UX)
+
+* First time visitor Goals
+    * I would like to see a website that easy to navigate both on my laptop and my phone
+    Acceptance Criteria
+    * I want to understand what the website is about
+    * I want to see reliable information so that I can come back and use this website as a reference.
+
+* Newly converted Goals
+    * want to learn more about the history of Muslim scientists and their heritage
+    * I want to learn about how this religion encourage people to pursue science and knowledge seeking
+    * I would like to proofs from the religious texts such as the Quran that talks about scientific facts
+    
+* A Muslim Goals
+    * As a muslim I want to learn more about my heritage.
+    * I would like to improve my knowledge in general about the religious tests related to science.
+
+* Philantropist Goals
+    * As a Person who like to support various causes, I would like to have a support section where I can donate for this cause to develop the site and add more information to it
+    * I would like to see a list of non profit organizations on this site that I can potentially help.
+
+* Students Goal
+    * As a theology student, I am interested in learning about different religions.
+    * As a theology student who is interested in history and religion, I would like to have a contact us page to inform the site of any discrepancies about the information available on the site.
+    * As a science student, I am interested in learning about religion and how it is linked to science. I would like to know the scientific miracles in the Quran.
+    * I would like to have a website with reliable information that I can use as a reference.
+
 ## Features <br>
 We have many features available for our users to make browsing the website easy and enjoyable.'
 
