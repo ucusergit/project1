@@ -171,9 +171,21 @@ The deployed website can be found here: [The History of Muslim Scientists](https
 * Used two lines of code from [digitaloceans.com](https://www.digitalocean.com/community/tutorials/ css-cropping-images-object-fit) to fix distorted images. They added a “box-shadow” and “object-fit” to the image styling.
 * Used code from [Stack Overflow](https://stackoverflow.com/questions/44449372/override-bootstrap-important) to override bootstrap to set the background color for the navigation bar and the buttons and to remove the underline from text.
 * Idea were used from [Stack Overflow](https://stackoverflow.com/questions/9222977/justify-text-in-css) to justify a text.
-* 
-
-
 
 # Media
+
+* The picture used on the main is from a friend of mine Mr. Naas.
+* The pictures and content of this page was taken from the following resources: 
+    * [Muslim Women Mathematicians website](https://muslimwomenmathematicians.org/Fatima.html)
+    * [Mawdoo3.com](https://mawdoo3.com/%D9%85%D9%86_%D9%87%D9%88_%D8%AC%D8%A7%D8%A8%D8%B1_%D8%A8%D9%86_%D8%AD%D9%8A%D8%A7%D9%86) 
+    * [1001inventions.com](https://www.1001inventions.com/) 
+    * [trtworld.com](https://www.trtworld.com/magazine/mariam-al-astrulabi-a-muslim-woman-behind-the-10th-century-astrolabes-43479) 
+    * [The Wikipedia page](https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%B2%D9%8A) 
+    * [Wikipedia - Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni) 
+    * [Wikipedia - Al-Ghazali](https://en.wikipedia.org/wiki/Al-Ghazali) 
+    * [Wikipedia - Khashkhash Ibn Saeed](https://en.wikipedia.org/wiki/Khashkhash_Ibn_Saeed_Ibn_Aswad) 
+    * [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2612469/) 
+    * [trtworld.com](https://www.trtworld.com/magazine/mariam-al-astrulabi-a-muslim-woman-behind-the-10th-century-astrolabes-43479 
+https://en.wikipedia.org/wiki/Muhammad_al-Idrisi)
+
 
