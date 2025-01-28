@@ -80,7 +80,7 @@ We have many features available for our users to make browsing the website easy 
 
 At the moment there are no unsolved bugs.
 
-## Validator Testing
+## Testing
 
 * HTML validator
 
@@ -147,5 +147,12 @@ At the moment there are no unsolved bugs.
 
     ![lighthouse test result for chemistry page](assets/readmeimages/lh_math.png) <br>
 
-    
+## Deployment
+
+* The site was deployed to Github Pages following the steps below:
+    * Log in to Github account, accessing project1 and navigate to settings.
+    * Navigate to pages and change the branch to main and save.
+    * This creates the Github Pages link on the first page on the right.
+
+The deployed website can be found here: [The History of Muslim Scientists](https://ucusergit.github.io/project1/mathematics.html)
 
