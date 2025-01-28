@@ -34,6 +34,29 @@ This a picture that show how the website appears on multiple devices:<br><br>
     * As a science student, I am interested in learning about religion and how it is linked to science. I would like to know the scientific miracles in the Quran.
     * I would like to have a website with reliable information that I can use as a reference.
 
+## Technologies Used
+
+### Languages Used
+
+* HTML5
+* CSS
+
+### Frameworks, Libraries & Programs Used
+* <font color="blue">Bootstrap 5.3</font>
+    - Bootstrap was used to assist the responsiveness of the navigation and the grid system of the site.
+* Hover.css:
+    - It was used to create the hovering effect when passing the mouse over social media links and buttons.
+* Google Fonts:
+    - It was used to import 'Open-sans' and 'Montserrat' fonts into the style.css
+* Font Awesome:
+    - It was used to add social media icons to improve the user experience.
+* Git:
+    - It was used to for version control by utilizing the Gitpod terminal to Git and Push to Github.
+* Github:
+    - It was used to store the projects code and to track the project progress.
+Balsamiq:
+    - It was used as a wireframe to design the pages of the site.
+
 ## Features <br>
 We have many features available for our users to make browsing the website easy and enjoyable.'
 
