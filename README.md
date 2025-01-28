@@ -7,6 +7,8 @@ This a picture that show how the website appears on multiple devices:<br><br>
 ![picture that show how the website appear on different devices](/assets/readmeimages/projectondevices.png)
 <br><br>
 
+View the live project [here](https://ucusergit.github.io/project1/).
+
 ## User Experience (UX)
 
 * First time visitor Goals
@@ -42,7 +44,7 @@ This a picture that show how the website appears on multiple devices:<br><br>
 * CSS
 
 ### Frameworks, Libraries & Programs Used
-* [Bootstrap 5.3]`#1589F0`
+* Bootstrap 5.3:
     - Bootstrap was used to assist the responsiveness of the navigation and the grid system of the site.
 * Hover.css:
     - It was used to create the hovering effect when passing the mouse over social media links and buttons.
@@ -206,9 +208,9 @@ At the moment there are no unsolved bugs.
     * Log in to Github account, accessing project1 and navigate to settings.
     * Navigate to pages and change the branch to main and save.
     * The page will automatically refresh
-    * Scrool again down and the Github Pages [link](https://ucusergit.github.io/project1/mathematics.html) will be on the first page on the right.
+    * Scrool again down and the Github Pages [link](https://ucusergit.github.io/project1/) will be on the first page on the right.
 
-The deployed website can be found here: [The History of Muslim Scientists](https://ucusergit.github.io/project1/mathematics.html)
+The deployed website can be found here: [The History of Muslim Scientists](https://ucusergit.github.io/project1/)
 <br>
 
 ### Forking the Github Repository
