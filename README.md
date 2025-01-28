@@ -149,15 +149,21 @@ At the moment there are no unsolved bugs.
 
     ![lighthouse test result for chemistry page](assets/readmeimages/lh_math.png) <br>
 
-## Deployment
+## Deployment <br>
 
+### Github Pages
 * The site was deployed to Github Pages following the steps below:
     * Log in to Github account, accessing project1 and navigate to settings.
     * Navigate to pages and change the branch to main and save.
-    * This creates the Github Pages link on the first page on the right.
+    * The page will automatically refresh
+    * Scrool again down and the Github Pages [link](https://ucusergit.github.io/project1/mathematics.html) will be on the first page on the right.
 
 The deployed website can be found here: [The History of Muslim Scientists](https://ucusergit.github.io/project1/mathematics.html)
 <br>
+
+### Forking the Github Repository
+
+It was not possible to fork the Github repository. The Fork button was inactive and a message was displayed that the forking is not possible because I own this repository and I am not a member of any organization.
 
 ## Credits
 
@@ -189,6 +195,10 @@ The deployed website can be found here: [The History of Muslim Scientists](https
     * [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2612469/) 
     * [trtworld.com-AlIdrissi](https://www.trtworld.com/magazine/mariam-al-astrulabi-a-muslim-woman-behind-the-10th-century-astrolabes-43479 
 https://en.wikipedia.org/wiki/Muhammad_al-Idrisi) 
+
+# Acknowledgements
+
+* My mentor for continuous helpful feedback
 
 
 
