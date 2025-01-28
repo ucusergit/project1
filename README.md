@@ -155,4 +155,25 @@ At the moment there are no unsolved bugs.
     * This creates the Github Pages link on the first page on the right.
 
 The deployed website can be found here: [The History of Muslim Scientists](https://ucusergit.github.io/project1/mathematics.html)
+<br>
+
+## Credits
+
+# Content
+
+* I deas and pieces of code were taken from other sources.
+* Used code from the walkthrough projects: [Love Running](https://github.com/ucusergit/running-club) and [Boardwalk Games](https://github.com/ucusergit/boardwalk-games) project. I did not use chunks of code but used lines of code to fix my table as I was not sure why it is not working. Added an extra “div” as it was used in the project to fix the issue. I also used ideas to how to present a list horizontally and how to style it to fit the website colors.
+* Code was used from the [Boardwalk Games](https://github.com/ucusergit/boardwalk-games) project to style the social media icons and to add CSS variables.
+* Code to make the grid was taken from the [Love Running](https://github.com/ucusergit/running-club) project.
+* Used ideas from [Stack Overflow](https://stackoverflow.com/questions/51371994/box-shadow-on-image-using-html-vs-css) to add box-shadow to a picture to get rid of added space under the image. Space was added after I used object-fit attribute.
+* Also used a line of code from website [shecodes.com]https://www.shecodes.io/athena/1057-troubleshooting-a-background-image-error-in-html to troubleshoot why the background image is not displayed.
+* Used [w3schools.com](https://www.w3schools.com/cssref/playdemo.php?filename=playcss_justify-content) to find the proper attribute to use for styling the header and the footer.
+* Used two lines of code from [digitaloceans.com](https://www.digitalocean.com/community/tutorials/ css-cropping-images-object-fit) to fix distorted images. They added a “box-shadow” and “object-fit” to the image styling.
+* Used code from [Stack Overflow](https://stackoverflow.com/questions/44449372/override-bootstrap-important) to override bootstrap to set the background color for the navigation bar and the buttons and to remove the underline from text.
+* Idea were used from [Stack Overflow](https://stackoverflow.com/questions/9222977/justify-text-in-css) to justify a text.
+* 
+
+
+
+# Media
 
